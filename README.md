@@ -106,7 +106,7 @@ const felix = {
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
