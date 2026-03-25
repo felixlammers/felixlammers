@@ -31,7 +31,7 @@ const felix = {
             runtime: ["Node.js"],
             databases: ["MongoDB", "MySQL", "MariaDB", "Redis"]
         },
-        cloud: ["Microsoft Azure"],
+        cloud: ["Cloudflare"],
         design: ["Photoshop", "Illustrator"],
         devOps: ["Linux"],
     },
